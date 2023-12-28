@@ -202,7 +202,7 @@ endmodule
 ## TIMING DIGRAMS FOR FLIP FLOPS 
 
 #### SR Flip-Flop :-
-![image](https://github.com/Raji1009/Experiment--05-Implementation-of-flipflops-using-verilog/assets/89059861/8695d6c4-258d-4f26-bc0c-5a98d6423f33)
+![image](https://github.com/jokerjana/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147173630/4b414d92-1690-46da-a285-3ca996c827c2)
 
 #### D Flip-Flop :-
 ![image](https://github.com/Raji1009/Experiment--05-Implementation-of-flipflops-using-verilog/assets/89059861/e6b25d09-f206-4edf-b6ec-9a76e9fa7d9e)
