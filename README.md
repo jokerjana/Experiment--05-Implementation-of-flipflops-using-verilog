@@ -211,7 +211,7 @@ endmodule
 ![image](https://github.com/jokerjana/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147173630/78e80399-e7c5-4501-976d-dfce83be6946)
 
 #### T Flip-Flop :-
-![image](https://github.com/Raji1009/Experiment--05-Implementation-of-flipflops-using-verilog/assets/89059861/bf28566a-e8e0-4bca-a450-4a7e7226d062)
+![image](https://github.com/jokerjana/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147173630/368c2a45-6591-4380-9b3b-d7fda267d4ed)
 
 
 ### RESULTS 
